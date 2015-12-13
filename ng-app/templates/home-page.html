@@ -1,0 +1,13 @@
+<div class="row">
+  <div class="col-xs-12 main-container">
+    <h2 class="page-header text-center">List of contacts</h2>
+      <p class="text-center">
+        <a href="/contacts/new" class="btn btn-lg btn-outline">Add Contact</a>
+      </p>
+      <ul class="media-list row contacts-container">
+        <li class="col-sm-6 col-md-4" ng-repeat="acc in Contacts">
+          <contacts-thumb></contacts-thumb>
+        </li>
+      </ul>
+  </div>
+</div>

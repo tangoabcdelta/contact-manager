@@ -1,0 +1,30 @@
+/**
+* testing ==============
+*/
+.allow-select {
+  -webkit-user-select: all;
+  -moz-user-select: all;
+  -ms-user-select: all;
+  -o-user-select: all;
+  user-select: all;
+}
+.purple {
+  color: #563d7c;
+}
+
+.contacts-thumb {
+
+}
+.contacts-thumb
+  .contact-image {
+    height: 128px !important;
+    border-radius: 100%;
+  }
+
+.contacts-thumb
+    .text-overflow {
+      max-height: 1.5em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
