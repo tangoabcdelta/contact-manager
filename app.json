@@ -1,7 +1,8 @@
 {
   "name": "Sample Angular App",
   "description": "Lorem Ipsum",
-  "repository": "https://git.heroku.com/fathomless-garden-9555.git",
+  "repository": "https://git.heroku.com/pacific-citadel-7823.git",
+  "github": "https://github.com/tangoabcdelta/contact-manager.git",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"

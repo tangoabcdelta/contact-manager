@@ -1,12 +1,21 @@
 Backbone Contact Manager
 ========================
 
-Simple Backbone.js example application
+Simple Angular App
 ## Demo
-http://dmytroyarmak.github.io/backbone-contact-manager
+[http://dmytroyarmak.github.io/backbone-contact-manager](https://pacific-citadel-7823.herokuapp.com)
 
-## Slides
-http://dmytroyarmak.github.io/codeangels-backbone-introduction
+## Steps to run the app
+* Install all dependencies: nodejs, npm, bower, bash compatible shell/terminal/command-line/cmder etc
+* Do an `npm start` for the very-first-time
+* Subsequent demos can be launched by issuing a `grut` at the terminal
+* hit `node www`
+* hit `grunt`
+
+## Unit Testing
+* 30% code coverage
+* Run `grunt jasmine-unit` at terminal
+* Run `node testserver`, if in case the automatic initialization fails
 
 ## Tutorial
 - [Step 0 - Initialization of project](https://github.com/dmytroyarmak/backbone-contact-manager/releases/tag/step-0)
