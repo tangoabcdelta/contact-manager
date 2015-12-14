@@ -9,8 +9,8 @@ Simple Angular App
 * Install all dependencies: nodejs, npm, bower, bash compatible shell/terminal/command-line/cmder etc
 * Do an `npm start` for the very-first-time
 * Subsequent demos can be launched by issuing a `grut` at the terminal
-* hit `node www`
-* hit `grunt`
+* To start the node-development server @port:3000, go to terminal and run: `node www`
+* To trigger a build and watch, go to terminal and run `grunt`
 
 ## Unit Testing
 * 30% code coverage
