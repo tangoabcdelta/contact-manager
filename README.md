@@ -1,4 +1,4 @@
-Backbone Contact Manager
+AngularJS Contact Manager
 ========================
 
 Simple Angular App
