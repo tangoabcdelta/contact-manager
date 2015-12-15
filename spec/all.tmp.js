@@ -67,3 +67,9 @@ describe("Application Config Spec", function(){
   });
 
 });
+
+describe("Services Spec", function(){
+    it('xxxxxxxx', function() {
+      expect(true).toBe(true);
+    });
+});

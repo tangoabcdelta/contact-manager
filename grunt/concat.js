@@ -17,7 +17,7 @@ module.exports = {
     },
     spec: {
       files: {
-        'jasmine-standalone-2.4.0/spec/all.specs.js': [ 'spec/**/*.spec.js']
+        'spec/all.tmp.js': [ 'spec/**/*.spec.js']
       }
     }
 }
